@@ -1,4 +1,4 @@
 # first-repo
-# H1This is my first Git Repository
+<h1>This is my first Git Repository
 <br>
-## H2Author-Prasad Suryavanshi(hi)
+<h2></h2>Author-Prasad Suryavanshi(hi)
